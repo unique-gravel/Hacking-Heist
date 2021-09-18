@@ -471,6 +471,7 @@ h3{
 }
 
 .blog-left p{
+    text-align: justify;
     color:darkslategray ;
     padding: 0;
 }
